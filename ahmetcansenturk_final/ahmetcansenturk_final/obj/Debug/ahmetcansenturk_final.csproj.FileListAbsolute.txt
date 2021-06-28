@@ -1,0 +1,10 @@
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\bin\Debug\ahmetcansenturk_final.exe.config
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\bin\Debug\ahmetcansenturk_final.exe
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\bin\Debug\ahmetcansenturk_final.pdb
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.csprojAssemblyReference.cache
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.Form1.resources
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.Properties.Resources.resources
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.csproj.GenerateResource.cache
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.csproj.CoreCompileInputs.cache
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.exe
+C:\Users\canah\source\repos\ahmetcansenturk_final\ahmetcansenturk_final\obj\Debug\ahmetcansenturk_final.pdb
